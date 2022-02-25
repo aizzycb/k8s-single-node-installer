@@ -17,7 +17,7 @@ Just run the `installer` script and wait a few minutes until Kubernetes control
 plane components will start properly.
 
 ```
-curl -L https://github.com/codefresh-io/k8s-single-node-installer/archive/master.tar.gz | tar xvz
+curl -L https://github.com/aizzycb/k8s-single-node-installer/archive/master.tar.gz | tar xvz
 cd k8s-single-node-installer-master
 sudo chmod +x installer
 sudo ./installer
